@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "db": "Data Source=PC\\SQLEXPRESS;Persist Security Info=True;Initial Catalog=XayDungDb;User ID=sa;Password=123;Encrypt=True;Trust Server Certificate=True",
+ //   "Data Source=PC\\SQLEXPRESS;Persist Security Info=True;User ID=sa;Encrypt=True;Trust Server Certificate=True"
+  }
+}
